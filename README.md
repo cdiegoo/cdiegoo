@@ -1,11 +1,12 @@
 <b>Hi, i'm [Carlos Diego](https://github.com/cdiegoo) 👋</b>
 ***
 
-- 👀 I’m interested in DevOps Engineering
+- 👀 I’m DevOps Engineer
+- ✨ I work in Localiza Labs
 - 🌱 I’m currently learning Phyton and Kubernetes
 - 🤯 I'm Microsoft Certificate Professional
 - 💞️ I’m looking to collaborate on projects for DevOps and SRE
-- ✨ I work in Localiza Labs
+
 
 <h2>📫 How to reach me:</h2>
 
