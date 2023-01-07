@@ -2,7 +2,7 @@
 ***
 
 - 👀 I’m DevOps Engineer
-- ✨ I work in Localiza Labs
+- ✨ I work in Bmg Bank
 - 🌱 I’m currently learning Phyton and Kubernetes
 - 🤯 I'm Microsoft Certificate Professional
 - 💞️ I’m looking to collaborate on projects for DevOps and SRE
