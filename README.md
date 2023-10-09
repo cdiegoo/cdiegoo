@@ -4,7 +4,7 @@
 - 👀 I’m DevOps Engineer
 - ✨ I work in Conta Simples
 - 🌱 I’m currently learning Phyton and Kubernetes
-- 🤯 I'm Microsoft Certificate Professional
+- 🤯 I have AWS and Azure Certifications
 - 💞️ I’m looking to collaborate on projects for DevOps and SRE
 
 
