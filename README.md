@@ -2,7 +2,7 @@
 ***
 
 - 👀 I’m DevOps Engineer
-- ✨ I work in Conta Simples
+- ✨ I work in @conta-simples
 - 🤯 I have AWS and Azure Certifications
 - 💞️ I’m looking to collaborate on projects for DevOps and SRE
 
