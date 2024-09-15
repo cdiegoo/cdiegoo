@@ -2,7 +2,7 @@
 ***
 
 - 👀 I’m DevOps Engineer
-- ✨ I work in @conta-simples
+- ✨ I work in @gupy
 - 🤯 I have AWS and Azure Certifications
 - 💞️ I’m looking to collaborate on projects for DevOps and SRE
 
